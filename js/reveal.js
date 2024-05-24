@@ -148,7 +148,7 @@ var Reveal = (function(){
 		};
 
 	/**
-	 * Starts up the presentation if the client is capable.
+	 * Starts up the presentation if the client is capable. hola
 	 */
 	function initialize( options ) {
 
